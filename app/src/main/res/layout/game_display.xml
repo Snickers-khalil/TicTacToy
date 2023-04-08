@@ -5,7 +5,7 @@
     xmlns:custom="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D7CCC8"
+    android:background="#D3D3D3D3"
     tools:context=".GameDisplay">
 
     <TextView
@@ -67,5 +67,5 @@
         custom:OColor="#0000FF"
         custom:XColor="#FF0000"
         custom:boardColor="@color/black"
-        custom:winningLineColor="#00FF00" />
+        custom:winningLineColor="#33FF99" />
 </androidx.constraintlayout.widget.ConstraintLayout>
